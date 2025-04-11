@@ -2,8 +2,7 @@
 This Power BI project provides an interactive analysis of Netflix’s global content library using a publicly available dataset. The dashboard offers insights into trends related to content types, genres, countries, release timelines, and more. 
 
 ## Dataset 
-
--Source: Netflix Movies and TV Shows dataset on Kaggle.
+-Source: Netflix Movies and TV Shows dataset on Kaggle.<br />
 -File Used: 20231229 - Dataset - Netflix-Listings.xlsx.
 -Records: 8,800+ entries.
 -Fields: Title, Type, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre, Description.
